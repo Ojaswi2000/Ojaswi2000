@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Database Management Systems, OOPS and Advanced Data Structures
 - 👯 I’m looking to collaborate on projects pertaining to React Framework and Data Analysis
 - 💬 Ask me about C++, Python, MySQL
-- 📫 How to reach me: ...
 - ⚡ Fun fact: I love reading, watching comedy series and writing poems.
 
 From not knowing how to write a "Hello World" program in C to doing projects on my own, I feel that my journey in the ever-changing and mysterious world of technology has not only been an eye-opening experience for me but something that has taught me so much about technology that I could not have imagined in my dizziest of daydreams. Ever since the moment I stepped foot in the tech-world, I started coding in languages C,C++,MySQL and then drifting away to Python and Javascript for building projects.
