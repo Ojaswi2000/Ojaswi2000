@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love reading, watching comedy series and writing poems.
 
 From not knowing how to write a "Hello World" program in C to doing projects on my own, I feel that my journey in the ever-changing and mysterious world of technology has not only been an eye-opening experience for me but something that has taught me so much about technology that I could not have imagined in my dizziest of daydreams. Ever since the moment I stepped foot in the tech-world, I started coding in languages C,C++,MySQL and then drifting away to Python and Javascript for building projects. I have built projects on React and Firebase to understand frontend and backend, simultaneously also venturing forth in the data science field understanding how regression works to then moving deeper into Image Segmentation using Deep Learning. I have also a significant amount of knowlege of Advanced Excel techniques from using simple formulae to building charts and pivot tables.
+
   I have a good work-ethic and interpersonal values while working with other colleagues and team members. I have quite a few times, led people in presentations and GDs. I am also looking forward to meeting people and learning and collaborating with them on enriching experiences.
 
 ## My Stats
