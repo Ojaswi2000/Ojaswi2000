@@ -1,4 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ojaswi2000" alt="Ojaswi2000" /> </p>
+<br/>
+
 ## Hi, I am Ojaswi Awasthi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on ReactJS, Javascript, Machine Learning 
@@ -12,6 +14,8 @@ From not knowing how to write a "Hello World" program in C to doing projects on 
   I have built projects on React and Firebase to understand frontend and backend, simultaneously also venturing forth in the data science field understanding how regression works to then moving deeper into Image Segmentation using Deep Learning. I have also a significant amount of knowlege of Advanced Excel techniques from using simple formulae to building charts and pivot tables.
 
   I have a good work-ethic and interpersonal values while working with other colleagues and team members. I have quite a few times, led people in presentations and GDs. I am also looking forward to meeting people and learning and collaborating with them on enriching experiences.
+  
+## ⚙ Languages and Tools  I use : 
 
 ## My Stats
 <p>
