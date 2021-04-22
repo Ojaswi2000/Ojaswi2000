@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ojaswi2000" alt="Ojaswi2000" /> </p>
 ## Hi, I am Ojaswi Awasthi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on ReactJS, Javascript, Machine Learning 
