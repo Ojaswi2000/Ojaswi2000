@@ -22,6 +22,7 @@ From not knowing how to write a "Hello World" program in C to doing projects on 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="70px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
 <img align="left" alt="GitHub" width="70px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <a href="https://www.npmjs.com/" target="_blank"><img align="left" alt="npm" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></a>
+<a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"><img align="left" alt="javascript" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" /></a>
 <br/><br/>
 <br/>
 ## My Stats
