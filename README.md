@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ojaswi2000" alt="Ojaswi2000" /> </p><br/>
-<img src="https://user-images.githubusercontent.com/65769340/115876134-939a1b80-a463-11eb-8595-e6912628e353.gif" />
+<img src="https://user-images.githubusercontent.com/65769340/115876134-939a1b80-a463-11eb-8595-e6912628e353.gif"  width=100% height=100%/>
 
 ## Hi, I am Ojaswi Awasthi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
