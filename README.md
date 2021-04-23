@@ -15,7 +15,14 @@ From not knowing how to write a "Hello World" program in C to doing projects on 
   I have a good work-ethic and interpersonal values while working with other colleagues and team members. I have quite a few times, led people in presentations and GDs. I am also looking forward to meeting people and learning and collaborating with them on enriching experiences.
   
 ## ⚙ Languages and Tools  I use : 
-
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="70px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="70px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="70px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<img align="left" alt="GitHub" width="70px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br/><br/>
+<br/>
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
