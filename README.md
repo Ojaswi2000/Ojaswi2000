@@ -41,7 +41,7 @@ From not knowing how to write a "Hello World" program in C to doing projects on 
 <br/>
 
 ## Connect With Me
-<a href="https://www.instagram.com/ojaswi_awasthi2000/" target="_blank"><img align="left" alt="Instagram" width="150px" src="https://angelidakis.com/WEB2019/insta.gif" /></a>
+<a href="https://www.instagram.com/ojaswi_awasthi2000/" target="_blank"><img align="left" alt="Instagram" width="100px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" /></a>
 <a href="https://www.kaggle.com/ojaswiawasthi" target="_blank"><img align="left" alt="Kaggle" width="85px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" /></a>
 <a href="https://www.linkedin.com/in/ojaswi-awasthi-2a47a117b/" target="_blank"><img align="left" alt="LinkedIn" width="100px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
