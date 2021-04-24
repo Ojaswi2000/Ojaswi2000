@@ -42,4 +42,5 @@ From not knowing how to write a "Hello World" program in C to doing projects on 
 
 ## Connect With Me
 <a href="https://www.instagram.com/ojaswi_awasthi2000/" target="_blank"><img align="left" alt="Instagram" width="150px" src="https://angelidakis.com/WEB2019/insta.gif" /></a>
+<a href="https://www.kaggle.com/ojaswiawasthi" target="_blank"><img align="left" alt="Kaggle" width="100px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" /></a>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
