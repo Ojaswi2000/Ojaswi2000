@@ -46,4 +46,4 @@ From not knowing how to write a "Hello World" program in C to doing projects on 
 <a href="https://www.linkedin.com/in/ojaswi-awasthi-2a47a117b/" target="_blank"><img align="left" alt="LinkedIn" width="100px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" /></a>
 <a href="https://www.google.com/search?q=google+mail&rlz=1C1RLNS_enIN917IN917&oq=google+mail&aqs=chrome..69i57j0j0i20i263j0i433j0j0i20i263j0l4.3181j0j15&sourceid=chrome&ie=UTF-8" target="_blank"><img align="left" alt="gmail" width="85px" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" /></a>
 <a href="https://twitter.com/OjaswiAwasthi" target="_blank"><img align="left" alt="twitter" width="85px" src="https://i.gifer.com/XHGv.gif" /></a>
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="" />
